@@ -8,9 +8,15 @@
     <title>Calculadora</title>
 </head>
 <body>
-    <main>
+    <main class="container">
         <section class="conteudo">
-            <h1>Calculadora</h1>
+            <div class="titulo">
+                <label for="theme" class="label">
+                    Calculadora
+                    <img src="./image/moon.png" id="theme-img" alt="">
+                </label>
+                <input id="theme" type="checkbox" name="theme" class="checkbox">
+            </div>
             <p id="resultado"></p>
             <table>
                 <tr>
@@ -36,7 +42,7 @@
                     <td><button class="buttom" onclick="inserir('2')">2</button></td>
                     <td><button class="buttom" onclick="inserir('3')">3</button></td>
                     <td rowspan="2">
-                        <button class="buttom equal operadores" onclick="calcular()">=</button>
+                        <button class="buttom res operadores" onclick="calcular()">=</button>
                     </td>
                 </tr>
                 <tr>
