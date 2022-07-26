@@ -10,9 +10,15 @@
 </p>
 
 ## Sobre
+
 Projeto desenvolvido para o aprendizado. Ele consiste em reproduzir uma calculadora, com operações de somar, multiplicar, dividir e subtrair. Além de, apagar tudo, apagar somente um item e ser dark mode.
 
 ##  Demonstração
+
+<p align="center">
+    <img alt="Demonstração" title="Demonstração" 
+    src="https://raw.githubusercontent.com/Polaris851/calculadora/main/src/image/calculadora.gif" />
+</p>
 
 ## Tecnologias utilizadas
 
