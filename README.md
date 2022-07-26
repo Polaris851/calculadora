@@ -9,7 +9,7 @@
 </p>
 
 ## Sobre
-Projeto desenvolvido para o aprendizado. Ele consiste em reproduzir uma calculadora, com operações de somar, multiplicar, dividir e subtrair. Além de, apagar tudo, apagar somente um item e ter o dark mode.
+Projeto desenvolvido para o aprendizado. Ele consiste em reproduzir uma calculadora, com operações de somar, multiplicar, dividir e subtrair. Além de, apagar tudo, apagar somente um item e ser dark mode.
 
 ## Tecnologias utilizadas
 
