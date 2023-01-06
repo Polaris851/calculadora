@@ -9,18 +9,18 @@
   <a href="#licença-e-autora">Licença e Autora</a>
 </p>
 
-## Sobre
+## 🦥 Sobre
 
 Projeto desenvolvido para o aprendizado. Ele consiste em reproduzir uma calculadora, com operações de somar, multiplicar, dividir e subtrair. Além de, apagar tudo, apagar somente um item e ser dark mode.
 
-##  Demonstração
+### ⏳ Demonstração
 
 <p align="center">
     <img alt="Demonstração" title="Demonstração" 
     src="https://raw.githubusercontent.com/Polaris851/calculadora/main/src/image/calculadora.gif" />
 </p>
 
-## Tecnologias utilizadas
+## 💡 Tecnologias utilizadas
 
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
@@ -28,7 +28,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 - HTML5
 - JavaScript
 
-## Licença e Autora
+## 📝 Licença e Autora
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/Polaris851/calculadora/blob/main/LICENSE) para mais detalhes.
 
